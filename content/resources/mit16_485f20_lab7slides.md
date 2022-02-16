@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/464ec352adaac983eded1b689cab560c_MIT16_485F20_Lab7Slides.pdf
+file: /media/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/464ec352adaac983eded1b689cab560c_MIT16_485F20_Lab7Slides.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lab Exercises
+parent_type: CourseSection
 resourcetype: Document
 title: MIT 16.485 Labs-7
 uid: 464ec352-adaa-c983-eded-1b689cab560c
