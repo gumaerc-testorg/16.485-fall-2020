@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Exercises
 parent_type: CourseSection
+parent_uid: 10b3675e-0a49-2e25-a3f6-60fe59ff335e
 resourcetype: Document
 title: MIT_16_485_VNAV_Lab1Notes
 uid: 5cdfe10f-c6d3-7b09-e493-95b55550d399

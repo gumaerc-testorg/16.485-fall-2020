@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Exercises
 parent_type: CourseSection
+parent_uid: 10b3675e-0a49-2e25-a3f6-60fe59ff335e
 resourcetype: Document
 title: MIT 16.485 Labs-5
 uid: a9fca7f4-c269-20a3-9712-b0ccb5616d01

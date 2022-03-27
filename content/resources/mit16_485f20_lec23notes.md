@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e5f53240-de03-08ce-bf8f-a9b8873390ea
 resourcetype: Document
 title: MIT 16.485 Visual Navigation for Autonomous Vehicels-LecNotes23
 uid: df71faf3-8489-a1e8-7369-535945ad77e8
