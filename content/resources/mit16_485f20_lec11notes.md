@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/4f2d6d81dcf47909969582fcdb49af0e_MIT16_485F20_lec11notes.pdf
+file: /courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/4f2d6d81dcf47909969582fcdb49af0e_MIT16_485F20_lec11notes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

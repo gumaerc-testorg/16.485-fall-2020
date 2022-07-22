@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/a9fca7f4c26920a39712b0ccb5616d01_MIT16_485F20_Lab5Slides.pdf
+file: /courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/a9fca7f4c26920a39712b0ccb5616d01_MIT16_485F20_Lab5Slides.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lab Exercises
 parent_type: CourseSection
