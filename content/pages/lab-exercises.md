@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides a collection of lab exercises in the MIT course 16.485
+  Visual Navigation for Autonomous Vehicles (VNAV).
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lab Exercises
@@ -45,9 +47,9 @@ Lab 1: Linux, C++, Git
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 1 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab1slides)
+{{% resource_link c7a9fb62-5453-a683-5c3f-8656bddc9575 "Lab 1 slides (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 1 recitation (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab1notes)
+{{% resource_link 5cdfe10f-c6d3-7b09-e493-95b55550d399 "Lab 1 recitation (PDF)" %}}
 
 [Lab 1 handout](https://vnav.mit.edu/labs/lab1/)
 
@@ -78,7 +80,7 @@ Lab 2: ROS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 2 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab2slides)
+{{% resource_link f0db821c-1877-fd11-fa70-3abf7274c4e3 "Lab 2 slides (PDF)" %}}
 
 [Lab 2 handout](https://vnav.mit.edu/labs/lab2/)
 
@@ -109,7 +111,7 @@ Lab 3: 3D trajectory following
 {{< tdopen >}}
 
 
-[Lab 3 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab3slides) 
+{{% resource_link e066937d-542b-3d97-24e1-c86eafc04529 "Lab 3 slides (PDF)" %}} 
 
 [Lab 3 handout](https://vnav.mit.edu/labs/lab3/)
 
@@ -138,7 +140,7 @@ Lab 4: 3D trajectory optimization
 {{< tdopen >}}
 
 
-[Lab 4 slides (PDF)]({{< baseurl >}}/resources/mit16_485f20_lab4slides)
+{{% resource_link 60009861-5dd9-4aee-e179-a4b36d77e446 "Lab 4 slides (PDF)" %}}
 
 [Lab 4 handout](https://vnav.mit.edu/labs/lab4/)
 
@@ -167,7 +169,7 @@ Lab 5: feature detection
 {{< tdopen >}}
 
 
-[Lab 5 slides (PDF)]({{< baseurl >}}/resources/mit16_485f20_lab5slides)
+{{% resource_link a9fca7f4-c269-20a3-9712-b0ccb5616d01 "Lab 5 slides (PDF)" %}}
 
 [Lab 5 handout](https://vnav.mit.edu/labs/lab5/)
 
@@ -196,7 +198,7 @@ Lab 6: object localization
 {{< tdopen >}}
 
 
-[Lab 6 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab6slides)
+{{% resource_link 79f02923-0a33-50cb-b9e2-6f47de843a40 "Lab 6 slides (PDF)" %}}
 
 [Lab 6 handout](https://vnav.mit.edu/labs/lab6/)
 
@@ -229,7 +231,7 @@ Lab 7: GTSAM
 {{< tdopen >}}
 
 
-[Lab 7 slides (PDF)]({{< baseurl >}}/resources/mit16_485f20_lab7slides)
+{{% resource_link 464ec352-adaa-c983-eded-1b689cab560c "Lab 7 slides (PDF)" %}}
 
 [Lab 7 handout](https://vnav.mit.edu/labs/lab7/)
 
@@ -262,7 +264,7 @@ Lab 8: place recognition
 {{< tdopen >}}
 
 
-[Lab 8 slides (PDF)]({{< baseurl >}}/resources/mit16_485f20_lab8slides)
+{{% resource_link bfc6872f-38a7-2765-6ad3-f671d1fdf353 "Lab 8 slides (PDF)" %}}
 
 [Lab 8 handout](https://vnav.mit.edu/labs/lab8/)
 
@@ -291,7 +293,7 @@ Lab 9: SLAM
 {{< tdopen >}}
 
 
-[Lab 9 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab9slides)
+{{% resource_link 271d9c2b-ecb3-b6ca-3b02-59dc75ae9704 "Lab 9 slides (PDF)" %}}
 
 [Lab 9 handout](https://vnav.mit.edu/labs/lab9/)
 

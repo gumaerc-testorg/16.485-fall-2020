@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the class schedule of the MIT course 16.485 Visual
+  Navigation for Autonomous Vehicles (VNAV), Fall 2020.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
