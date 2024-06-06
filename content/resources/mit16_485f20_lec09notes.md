@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/a344453237f66864278404941bcc499c_MIT16_485F20_lec09notes.pdf
+file_size: 330376
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
