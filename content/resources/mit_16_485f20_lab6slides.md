@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/79f029230a3350cbb9e26f47de843a40_MIT_16_485F20_Lab6Slides.pdf
+file: /courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/79f029230a3350cbb9e26f47de843a40_MIT_16_485F20_Lab6Slides.pdf
 file_size: 352033
 file_type: application/pdf
 learning_resource_types: []
