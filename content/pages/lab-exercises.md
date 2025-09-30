@@ -51,7 +51,7 @@ Lab 1: Linux, C++, Git
 
 {{% resource_link 5cdfe10f-c6d3-7b09-e493-95b55550d399 "Lab 1 recitation (PDF)" %}}
 
-[Lab 1 handout](https://vnav.mit.edu/labs/lab1/)
+{{% resource_link "1e3ffc8c-3854-4c2d-935c-076c82fb1864" "Lab 1 handout" %}}
 
 
 {{< tdclose >}}
@@ -82,7 +82,7 @@ Lab 2: ROS
 
 {{% resource_link f0db821c-1877-fd11-fa70-3abf7274c4e3 "Lab 2 slides (PDF)" %}}
 
-[Lab 2 handout](https://vnav.mit.edu/labs/lab2/)
+{{% resource_link "5d01ed62-dc78-4b9f-a271-38503c737d56" "Lab 2 handout" %}}
 
 
 {{< tdclose >}}
@@ -113,7 +113,7 @@ Lab 3: 3D trajectory following
 
 {{% resource_link e066937d-542b-3d97-24e1-c86eafc04529 "Lab 3 slides (PDF)" %}} 
 
-[Lab 3 handout](https://vnav.mit.edu/labs/lab3/)
+{{% resource_link "44ee9ba7-e7d0-48f1-bdcf-b88646fb884c" "Lab 3 handout" %}}
 
 
 {{< tdclose >}}
@@ -142,7 +142,7 @@ Lab 4: 3D trajectory optimization
 
 {{% resource_link 60009861-5dd9-4aee-e179-a4b36d77e446 "Lab 4 slides (PDF)" %}}
 
-[Lab 4 handout](https://vnav.mit.edu/labs/lab4/)
+{{% resource_link "390ec7c6-2f13-427a-908e-34a6fa6dac0c" "Lab 4 handout" %}}
 
 
 {{< tdclose >}}
@@ -171,7 +171,7 @@ Lab 5: feature detection
 
 {{% resource_link a9fca7f4-c269-20a3-9712-b0ccb5616d01 "Lab 5 slides (PDF)" %}}
 
-[Lab 5 handout](https://vnav.mit.edu/labs/lab5/)
+{{% resource_link "ce33217f-ca26-424b-ad1e-236c977247b5" "Lab 5 handout" %}}
 
 
 {{< tdclose >}}
@@ -200,7 +200,7 @@ Lab 6: object localization
 
 {{% resource_link 79f02923-0a33-50cb-b9e2-6f47de843a40 "Lab 6 slides (PDF)" %}}
 
-[Lab 6 handout](https://vnav.mit.edu/labs/lab6/)
+{{% resource_link "35325aca-e49d-45e1-ae7b-cf18130a65ae" "Lab 6 handout" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +233,7 @@ Lab 7: GTSAM
 
 {{% resource_link 464ec352-adaa-c983-eded-1b689cab560c "Lab 7 slides (PDF)" %}}
 
-[Lab 7 handout](https://vnav.mit.edu/labs/lab7/)
+{{% resource_link "2b75c94b-704c-4972-af2e-365d69ead292" "Lab 7 handout" %}}
 
 
 {{< tdclose >}}
@@ -266,7 +266,7 @@ Lab 8: place recognition
 
 {{% resource_link bfc6872f-38a7-2765-6ad3-f671d1fdf353 "Lab 8 slides (PDF)" %}}
 
-[Lab 8 handout](https://vnav.mit.edu/labs/lab8/)
+{{% resource_link "ffd49e94-dbe4-490f-a576-e3b4f68fbdd1" "Lab 8 handout" %}}
 
 
 {{< tdclose >}}
@@ -295,7 +295,7 @@ Lab 9: SLAM
 
 {{% resource_link 271d9c2b-ecb3-b6ca-3b02-59dc75ae9704 "Lab 9 slides (PDF)" %}}
 
-[Lab 9 handout](https://vnav.mit.edu/labs/lab9/)
+{{% resource_link "4c3dfaf1-44b2-470b-a063-f9e88a701428" "Lab 9 handout" %}}
 
 
 {{< tdclose >}}
