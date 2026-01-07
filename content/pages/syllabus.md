@@ -34,8 +34,8 @@ Resources
 
 There is no required textbook. The following are recommended books (also available online):
 
-*   Barfoot, Timothy. _State Estimation for Robotics_. Cambridge University Press, 2017. ISBN: 9781107159396. \[Preview with {{% resource_link "6c223aec-c234-424a-b0d7-d52a0ff35c36" "Google Books" %}}\]
-*   Ma, Yi et al. _An Invitation to 3-D Vision: From Images to Geometric Models_. Springer, 2003. ISBN: 9780387008936. \[Preview with {{% resource_link "dcc3ea09-3c60-4b14-a539-d8243ecb3677" "Google Books" %}}\]
+*   Barfoot, Timothy. _State Estimation for Robotics_. Cambridge University Press, 2017. ISBN: 9781107159396. \[Preview with [Google Books](https://www.google.com/books/edition/State_Estimation_for_Robotics/EpsqDwAAQBAJ?hl=en&gbpv=0)\]
+*   Ma, Yi et al. _An Invitation to 3-D Vision: From Images to Geometric Models_. Springer, 2003. ISBN: 9780387008936. \[Preview with [Google Books](https://www.google.com/books/edition/An_Invitation_to_3_D_Vision/6tUqQmwan4UC?hl=en&gbpv=0)\]
 
 Pointer to other relevant references (tutorial/survey papers as well as technical papers) will be provided during each lecture.
 
